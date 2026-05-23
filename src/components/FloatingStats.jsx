@@ -23,6 +23,12 @@ export default function FloatingStats() {
           <span className="px-3 py-1 bg-[#38bdf8]/10 text-[#38bdf8] border border-[#38bdf8]/20 rounded-full text-xs font-medium">Tailwind CSS</span>
           <span className="px-3 py-1 bg-[#bb99ff]/10 text-[#bb99ff] border border-[#bb99ff]/20 rounded-full text-xs font-medium">Framer Motion</span>
           <span className="px-3 py-1 bg-pink-500/10 text-pink-400 border border-pink-500/20 rounded-full text-xs font-medium">Spline 3D</span>
+          
+          {/* New Backend & Deployment Architecture Added Here */}
+          <span className="px-3 py-1 bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 rounded-full text-xs font-medium">Supabase</span>
+          <span className="px-3 py-1 bg-yellow-500/10 text-yellow-400 border border-yellow-500/20 rounded-full text-xs font-medium">Vite</span>
+          <span className="px-3 py-1 bg-white/10 text-white border border-white/20 rounded-full text-xs font-medium">Vercel</span>
+          <span className="px-3 py-1 bg-orange-500/10 text-orange-400 border border-orange-500/20 rounded-full text-xs font-medium">Recharts</span>
         </div>
       </div>
 
